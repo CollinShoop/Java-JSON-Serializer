@@ -1,5 +1,5 @@
 # Java-JSON-Serializer
-This project is a Java to JSON (and vise versa) converter heavily inspired by Jackson (https://github.com/FasterXML/jackson). 
+This project is a JSON to Java object and Java to JSON converter heavily inspired by Jackson (https://github.com/FasterXML/jackson). 
 
 I made this project in order to learn about and familiarize myself with reflection in Java.
 
