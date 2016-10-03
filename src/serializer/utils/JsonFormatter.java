@@ -20,7 +20,6 @@ public class JsonFormatter {
 			boolean blockEnd = (c == '}' || c == ']');
 			boolean printReturn = false;
 			
-			
 			if (blockStart) {
 				tabCount++;
 				printReturn = true;
