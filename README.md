@@ -2,7 +2,8 @@
 
 It's Java, and JSON. 
 
-Library which allows JSON to Java object and Java object to JSON converter, heavily inspired by [Jackson](https://github.com/FasterXML/jackson). 
+Tool to convert JSON to Java object and Java object to JSON. This is definitely a ripoff version of [Jackson](https://github.com/FasterXML/jackson).
 
 ## Why?
-I made this project in order to learn about and familiarize myself with reflection in Java... and because I thought it would be cool!
+
+Building powerful and flexible code is interesting to me. Something abstract like serialization, via Java Reflection, sounded like a great execrcise in recursion, type handling, and and general usage of reflection. 
